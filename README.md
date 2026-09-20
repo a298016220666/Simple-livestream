@@ -10,7 +10,7 @@
 - **简洁界面**：清爽的 UI 设计，支持浅色 / 深色模式
 - **弹幕支持**：完整弹幕解析与展示
 - **收藏与历史**：方便管理常看的主播
-- **多端支持**：Android / iOS / Windows / macOS / Linux / Android TV
+- **支持**：Android
 
 ## 支持直播平台
 
@@ -39,7 +39,7 @@
 ## 平台支持
 
 - [x] Android
-- [x] iOS
+- [x] iOS   "beta"
 - [x] Windows `BETA`
 - [x] macOS `BETA`
 - [x] Linux `BETA`
